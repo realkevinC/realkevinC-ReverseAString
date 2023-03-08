@@ -21,7 +21,7 @@ public class StringReverse {
         // StringBuilder method
         StringBuilder sb = new StringBuilder(str);
         sb.reverse();
-        return sb.toString();
+        return sb.toString();  
     }  
     
 }
